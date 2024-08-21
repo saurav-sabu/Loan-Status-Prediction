@@ -6,4 +6,5 @@ scikit-learn
 xgboost
 imblearn
 ipykernel
+statsmodels
 -e .
