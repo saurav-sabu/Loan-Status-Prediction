@@ -7,4 +7,5 @@ xgboost
 imblearn
 ipykernel
 statsmodels
+dill
 -e .
